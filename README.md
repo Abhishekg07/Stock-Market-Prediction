@@ -1,4 +1,5 @@
 # Stock-Market-Prediction
+# Author - Abhishek Babulal Gupta
 
 ##  Overview
 This project predicts **daily stock price movement (Up/Down)** for a selected set of U.S. equities using **historical OHLCV data** and machine learning.  
