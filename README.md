@@ -1,7 +1,4 @@
 # Stock-Market-Prediction
-Stock Market Prediction
-
-# Stock Price Prediction using Data Mining in Financial Data
 
 ##  Overview
 This project predicts **daily stock price movement (Up/Down)** for a selected set of U.S. equities using **historical OHLCV data** and machine learning.  
